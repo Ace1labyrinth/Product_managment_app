@@ -15,6 +15,21 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
+Product Management Mobile App
+
+A simple mobile app built with React Native (Expo) that allows users to add and manage products with a limit of 5 items.
+
+Features
+Add product (name, price, image)
+Product list display
+Maximum limit of 5 products
+Scrollable interface
+Image upload using Expo Image Picker
+
+Tech Stack
+React Native (Expo)
+JavaScript
+Expo Image Picker
 
 In the output, you'll find options to open the app in a
 
